@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "3e1d2c622dab8648a6caa7ca",
+  "owner": "ysydkjm",
+  "repo": "page-12617286727510c3e78698ff",
+  "title": "FastFox",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "12617286727510c3e78698ff",
+      "a": "FastFox",
+      "b": "机场官网线路发布页",
+      "entity": "FastFox",
+      "brand": "FastFox",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "7bbfbd729f94b668fc1c41782a4fbfb512368dd837d02195090b4a73caeaa89f",
+      "content": {
+        "primary_entity": "FastFox",
+        "keyword1": "FastFox",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，FastFox 提供基础版、旗舰版与团队版三档订阅，月付价格分别为 ¥15、¥35 与 ¥85，按年付可享对应优惠。基础版适合单人轻量使用，旗舰版加入 IPLC 专线并支持 5 台设备，团队版面向 20 台设备与更高流量需求。选择时先确认常用设备数量与每月流量，再对照节点池与流媒体解锁情况，即可找到匹配的套餐。",
+          "AI_HERO_SUBTITLE": "FastFox 多档订阅灵活选择",
+          "AI_HERO_INTRO": "FastFox 是面向跨境访问场景的加速服务，提供基础版、旗舰版与团队版三档订阅。用户可按设备数量与每月流量选择档位，搭配 Clash、Shadowrocket、v2rayN 等客户端导入订阅使用，旗舰版与团队版在节点资源与设备支持上更为充裕。",
+          "AI_VISUAL_TITLE": "FastFox 加速订阅方案",
+          "AI_HIGHLIGHT_1": "基础版月付 ¥15，含 100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版支持 5 台设备与 IPLC 专线",
+          "AI_HIGHLIGHT_3": "团队版含 1000GB 流量与 20 台设备",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURES_INTRO": "FastFox 订阅按流量、设备数与线路类型区分，结合日常使用习惯即可快速定位合适档位。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版可覆盖 20 台设备同时在线。",
+          "AI_FEATURE_TITLE_2": "按流量选档",
+          "AI_FEATURE_TEXT_2": "每月流量从基础版 100GB 到团队版 1000GB，按用量预估即可决定订阅周期。",
+          "AI_FEATURE_TITLE_3": "按线路选档",
+          "AI_FEATURE_TEXT_3": "旗舰版提供 IPLC 专线优化，团队版含 VIP 高带宽节点，普通线路则由基础版覆盖。",
+          "AI_CLIENTS_TITLE": "客户端选择参考",
+          "AI_CLIENTS_INTRO": "根据设备类型选择对应客户端，按客户端文档导入 FastFox 订阅地址即可开始使用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别约 ¥150、¥350 与 ¥850，按流量与设备需求选择即可。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_GUIDE_INTRO": "从确认需求到完成配置，三步即可让 FastFox 订阅在常用设备上运行。",
+          "AI_STEP_TITLE_1": "确认服务与套餐",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量，在基础版、旗舰版与团队版之间选定档位。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用客户端支持当前系统，并检查网络环境是否满足订阅导入条件。",
+          "AI_STEP_TITLE_3": "按客户端文档配置",
+          "AI_STEP_TEXT_3": "依照所选用客户端的使用说明，将 FastFox 订阅地址导入并启用配置。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "FastFox 基础版和旗舰版有什么区别？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备，走普通线路节点池。旗舰版提升至每月 300GB、5 台设备，并加入 IPLC 专线与全节点流媒体解锁。",
+          "AI_FAQ_QUESTION_2": "团队版最多支持多少台设备同时在线？",
+          "AI_FAQ_ANSWER_2": "团队版支持 20 台设备同时在线，并提供每月 1000GB 流量、VIP 专属高带宽节点与企业定制路由选项。",
+          "AI_FAQ_QUESTION_3": "按年付比按月付节省多少？",
+          "AI_FAQ_ANSWER_3": "基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850，相比逐月支付，年付在长期使用下更为划算，适合确定持续需求的用户。",
+          "AI_FAQ_QUESTION_4": "用哪些客户端可以导入 FastFox 订阅？",
+          "AI_FAQ_ANSWER_4": "常见客户端包括 Clash、Shadowrocket、v2rayN 等，具体以所使用设备与客户端文档为准，导入订阅地址后即可启用。",
+          "AI_FAQ_QUESTION_5": "首次购买后如何开始使用？",
+          "AI_FAQ_ANSWER_5": "选定套餐后获取订阅地址，在设备上安装对应客户端并按文档导入，再根据实际网络情况切换节点即可开始使用。",
+          "AI_CLOSING_TITLE": "选对档位，顺畅连接",
+          "AI_CLOSING_TEXT": "根据设备与流量需求选定 FastFox 套餐，导入订阅后即可开始跨境访问。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zhangzhiwei27.cn",
+    "host": "zhangzhiwei27.cn"
+  },
+  "file_hashes": {
+    "index.html": "8e3130ce935ba68d2b5b61d2e1185fe0e6aeaccb2a895d1438b9a5a02231b332",
+    "sitemap.xml": "3e47a4a2f93a0ad0046820b87a5f7780d28380a0739aab3593cfe800d2ebd79d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "98a5bb454b49a60381494d7fe7817967ea8d38b1f0bb110615cc06902081deb8",
+    "robots.txt": "806e1b825d9f1f16220e7bab04f6c5205b55565bbe17fdd22d038e6e60876908",
+    "e59567e21e78a348f5f15d944dbb5532.txt": "346be08e7e0c29400587aded48e1cc524ad156dedf37a16313e3f4996a6218b3"
+  },
+  "revision": "20d0ed064d27c321b06fdd9affbeddfdafd524acab679184116ed93054f06b0e"
+}
